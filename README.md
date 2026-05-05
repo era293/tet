@@ -8,11 +8,12 @@
    ol {background-color:#DAFFC3}
     p {background-color:grey} 
     body { background-image:url(smale.png) }
+  background-repeat {no-repeat}
+   background-position{bottom center}
     </STYLE> 
  <head>
-<body>{
-   background-repeat:no-repeat}
-   background-position:bottom center
+<body>
+   
  <H1>Маркированный список</H1>
  <UL>
  <LI>Первый пункт списка</LI>
@@ -22,7 +23,7 @@
  <LI>Пятый пункт списка</LI>
  </UL>
 <H1>Нумированный список</H1>
-</OL>
+<OL>
 <LI>Первый пункт списка</LI>
  <LI>Второй пункт списка</LI>
  <LI>Третий пункт списка</LI>
